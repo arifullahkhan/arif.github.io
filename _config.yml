@@ -17,8 +17,8 @@ lang: en-US
 title: Arif Ullah Khan
 email:
 description:
-baseurl: "/blog"
-url: "https://mmistakes.github.io"
+baseurl: 
+url: 
 author:
   name:
   twitter:
